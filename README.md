@@ -4,3 +4,7 @@ Regional Banks of [Crédit Agricole](https://en.wikipedia.org/wiki/Cr%C3%A9dit_A
 But this prevent password managers to autofill the form.
 
 This user script create an invisible password field and click automatically on keyboard's buttons like the user should.
+
+See also:
+
+- https://github.com/bouil/userscripts/tree/master/src
