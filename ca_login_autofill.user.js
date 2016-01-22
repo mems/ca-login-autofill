@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name	Crédit Agricole login autofill
 // @namespace	memmie.lenglet.name
-// @author	mems
+// @author	mems <memmie@lenglet.name>
+// @homepageURL https://github.com/mems/ca-login-autofill/
 // @description	Enable password autofill on Crédit Agricole.
 // @include	https://www.*-enligne.credit-agricole.fr/stb/entreeBam
 // @updateURL   https://openuserjs.org/install/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
