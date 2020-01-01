@@ -5,6 +5,7 @@
 // @homepageURL https://github.com/mems/ca-login-autofill/
 // @description	Enable password autofill on Crédit Agricole.
 // @include	https://www.*-enligne.credit-agricole.fr/stb/entreeBam
+// @license	MIT
 // @updateURL   https://openuserjs.org/install/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
 // @version	1.0.1
 // @grant	none
