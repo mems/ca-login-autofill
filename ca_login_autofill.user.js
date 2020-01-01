@@ -6,7 +6,8 @@
 // @description	Enable password autofill on Crédit Agricole.
 // @include	https://www.*-enligne.credit-agricole.fr/stb/entreeBam
 // @license	MIT
-// @updateURL   https://openuserjs.org/install/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
+// @updateURL   https://openuserjs.org/meta/mems/Cr%C3%A9dit_Agricole_login_autofill.meta.js
+// @downloadURL https://openuserjs.org/src/scripts/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
 // @version	1.0.1
 // @grant	none
 // ==/UserScript==
