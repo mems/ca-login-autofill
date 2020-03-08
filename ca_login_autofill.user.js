@@ -4,12 +4,12 @@
 // @author	mems <memmie@lenglet.name>
 // @homepageURL https://github.com/mems/ca-login-autofill/
 // @description	Enable password autofill on Crédit Agricole.
-// @include	https://www.*-enligne.credit-agricole.fr/stb/entreeBam
-// @match	https://www.credit-agricole.fr/*/*/acceder-a-mes-comptes.html
+// @match	https://*.credit-agricole.fr/stb/entreeBam*
+// @match	https://www.credit-agricole.fr/*/*/acceder-a-mes-comptes.html*
 // @license	MIT
 // @updateURL   https://openuserjs.org/meta/mems/Cr%C3%A9dit_Agricole_login_autofill.meta.js
 // @downloadURL https://openuserjs.org/src/scripts/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
-// @version	1.1.0
+// @version	1.1.1
 // @grant	none
 // ==/UserScript==
 
