@@ -10,7 +10,7 @@
 // @license	MIT
 // @updateURL   https://openuserjs.org/meta/mems/Cr%C3%A9dit_Agricole_login_autofill.meta.js
 // @downloadURL https://openuserjs.org/src/scripts/mems/Cr%C3%A9dit_Agricole_login_autofill.user.js
-// @version	1.2.0
+// @version	1.2.1
 // @grant	none
 // ==/UserScript==
 
