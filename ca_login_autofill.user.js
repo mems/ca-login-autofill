@@ -18,7 +18,10 @@
 const passwordInput = document.createElement("input");
 passwordInput.type = "password";
 passwordInput.autocomplete = "current-password";
-passwordInput.style = "position: fixed; right: 100%; bottom: 100%; opacity: 0;";
+// Bitwarden is quite strict with form field visibility
+// See https://github.com/bitwarden/clients/blob/d444143a651dc93172de8bbee3e88f4c2a22e82d/apps/browser/src/autofill/services/dom-element-visibility.service.ts#L16-L26
+//passwordInput.style = "position: fixed; right: 100%; bottom: 100%; opacity: 0;";
+passwordInput.style = "position: fixed; z-index:1; opacity: 0.1;";
 let element;
 
 // espace projet immobilier (www.*-esimulca-enligne.credit-agricole.fr)
